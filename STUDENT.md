@@ -1,21 +1,19 @@
 # Moje wykonanie Lab00
 
-- Login GitHub / pseudonim: ...
-- System i terminal (np. Windows + WSL Ubuntu): ...
-- Edytor / IDE: ...
-- Wersja Git: ...
-- Wersja kompilatora C++: ...
-- Wersje java i javac: ...
+- Login GitHub / pseudonim: ZofiaGlowacka
+- System i terminal (np. Windows + WSL Ubuntu): Windows + WSL Ubuntu
+- Edytor / IDE: vim
+- Wersja Git: 2.43.0
+- Wersja kompilatora C++: 13.3.0
+- Wersje java i javac: 17.0.20.1
 - Link do pierwszego PR (uzupełnij w zadaniu 5): ...
 
 ## Uruchomienie lokalne
 Wynik programu C++:
-```text
-...
+```Hello from C++! Author: ZofiaGlowacka
 ```
 Wynik programu Java:
-```text
-...
+```Hello from Java! Author: ZofiaGlowacka
 ```
 
 ## Błąd i poprawka (zadanie 5)
